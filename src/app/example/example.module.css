@@ -1,0 +1,9 @@
+.myHeader {
+    display: flex;
+    padding: 60px;
+    background-color: yellow;
+}
+
+.hand {
+    color: blue;
+}
